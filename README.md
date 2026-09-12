@@ -10,4 +10,6 @@ links, then delete or overwrite the next `soon` row.
 
 ## Links
 
-Replace `[SPOTIFY LINK]` and `[TIKTOK LINK]` with the real URLs.
+Replace `[SPOTIFY LINK]`, `[TIKTOK LINK]` and `[INSTAGRAM LINK]` with the
+real URLs. The three buttons at the bottom of the page live in
+`<div class="socials">`.
