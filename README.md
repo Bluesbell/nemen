@@ -10,6 +10,6 @@ links, then delete or overwrite the next `soon` row.
 
 ## Links
 
-Replace `[SPOTIFY LINK]`, `[APPLE MUSIC LINK]`, `[TIKTOK LINK]` and
-`[INSTAGRAM LINK]` with the real URLs. The buttons at the bottom of the
-page live in `<div class="socials">`.
+Instagram and TikTok are live. Replace `[SPOTIFY LINK]` and
+`[APPLE MUSIC LINK]` with the real URLs. The buttons at the bottom of
+the page live in `<div class="socials">`.
