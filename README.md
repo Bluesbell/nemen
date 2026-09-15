@@ -10,6 +10,5 @@ links, then delete or overwrite the next `soon` row.
 
 ## Links
 
-Instagram and TikTok are live. Replace `[SPOTIFY LINK]` and
-`[APPLE MUSIC LINK]` with the real URLs. The buttons at the bottom of
-the page live in `<div class="socials">`.
+All four links are live — Spotify, Apple Music, TikTok and Instagram.
+The buttons at the bottom of the page live in `<div class="socials">`.
